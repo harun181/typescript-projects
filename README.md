@@ -14,10 +14,13 @@ This guide will walk you through the process of creating a React application usi
 
 ```bash
    npm create vite@latest my-todo-app -- --template react-ts
-   or 
-   npm create vite@latest
-   yes > project-name > react > typescript
 ```
+or
+  ```bash
+   npm create vite@latest
+  ```
+  yes > project-name > react > typescript
+
 
 ## Step 2:  Install Tailwind CSS
 <h2>Install Tailwind CSS and its dependencies:</h2>
