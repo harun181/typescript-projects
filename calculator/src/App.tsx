@@ -77,7 +77,7 @@ export default function Calculator() {
         </div>
       </div>
       <div className="grid grid-cols-4 gap-3">
-        {buttons.map((row, i) => (
+        {buttons.map((row) => (
           row.map((button) => (
             <button
               key={button}
